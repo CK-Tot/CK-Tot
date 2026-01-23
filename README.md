@@ -1,4 +1,4 @@
-## 👋 Hey, (CK)
+## 👋 Hey, I'm CK
 
 Front-End focused Software Developer with growing full-stack experience.  
 Currently building real projects while completing **CS50**, **CS50 Web**, and **Python** courses from **Harvard (edX)**.
