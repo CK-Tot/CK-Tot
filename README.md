@@ -1,7 +1,7 @@
 # Changkuoth (CK) Tot
 
 **Frontend Engineer** — building clean, performant interfaces with growing full-stack depth.  
-Based in Omaha, NE · Co-founder @ [LGTWork](https://github.com/ck-tot) · Open to SWE roles & co-ops
+Based in Lincoln, NE · Co-founder @ [LGTWork](https://github.com/ck-tot) · Open to SWE roles & co-ops
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/changkuoth-tot)
 
